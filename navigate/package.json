@@ -1,0 +1,16 @@
+{
+  "name": "navigate",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "playwright": "1.39.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
